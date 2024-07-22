@@ -30,4 +30,4 @@ This repository contains a simple yet fun Tic Tac Toe game built using HTML, CSS
 Feel free to contribute to this project by submitting issues or pull requests. Your contributions are welcome!
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source .
